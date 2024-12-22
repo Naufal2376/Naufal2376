@@ -1,131 +1,75 @@
-# 🚀 Personal Portfolio with Laravel & React
+# 👋 Hi there, I'm Naufal
 
-[![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org)
-[![Filament](https://img.shields.io/badge/Filament-FFD700?style=for-the-badge&logo=filament&logoColor=black)](https://filamentphp.com)
-[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
 
-## 📖 Overview
+## 👨‍💻 About Me
 
-This project combines Laravel's powerful backend with React's dynamic frontend capabilities. It features:
-- 🎨 Modern landing page built with React
-- 📊 Admin dashboard powered by Filament
-- 🔐 Authentication system using Laravel Breeze
-- 🛠 CRUD operations for portfolio management
+🎓 Full Stack Developer passionate about creating web applications  
+🌱 Currently learning Cloud Architecture and DevOps  
+🔭 Working on building scalable web applications  
+👯 Looking to collaborate on open source projects  
+⚡ Fun fact: I love photography 📸 and playing guitar 🎸
 
-## 🗂 Project Structure
+## 🛠️ Tech Stack
 
-```plaintext
-/portfolio
-├── app/
-|   ├── filament/  # Filament resource
-├── resources/
-│   ├── js/        # React components & logic
-│   └── views/     # Blade templates
-├── routes/
-├── database/
-└── public/
-```
+### 👨‍💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
-## ⚙️ Prerequisites
+### 🚀 Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-- PHP ^8.1
-- Node.js & NPM
-- Composer
-- MySQL/PostgreSQL
-- Git
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 🚀 Installation Steps
+### ☁️ Cloud & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/Naufal2376/Naufal2376
-cd portfolio
-```
+## 📊 GitHub Stats
 
-### 2️⃣ Install PHP Dependencies
-```bash
-composer install
-```
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
-### 3️⃣ Setup Environment File
-```bash
-cp .env.example .env
-php artisan key:generate
-```
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
-### 4️⃣ Configure Database
-```bash
-# Update .env file with your database credentials
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=your_database
-DB_USERNAME=your_username
-DB_PASSWORD=your_password
-```
+## 🏆 GitHub Trophies
 
-### 5️⃣ Install Laravel Breeze with React
-```bash
-composer require laravel/breeze --dev
-php artisan breeze:install react
-```
+[![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 6️⃣ Install Filament
-```bash
-composer require filament/filament
-php artisan filament:install --panels
+## 🎯 Featured Projects
 
-# Create admin user
-php artisan make:filament-user
-```
+### 🛒 E-Commerce Platform
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-### 7️⃣ Run Migrations
-```bash
-php artisan migrate
-```
+A full-featured e-commerce platform with payment integration and admin dashboard.
 
-### 8️⃣ Install Frontend Dependencies
-```bash
-npm install
-```
+### 📱 Social Media App
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### 9️⃣ Build Assets
-```bash
-npm run dev
-```
+Cross-platform mobile app for social networking.
 
-### 🔟 Start the Development Server
-```bash
-# In terminal 1
-php artisan serve
+## 📈 Contribution Graph
 
-# In terminal 2
-npm run dev
-```
+![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
-## 🌐 Access Points
+## 💡 A Quote to Inspire
 
-- 🏠 Frontend: `http://localhost:8000`
-- ⚙️ Admin Panel: `http://localhost:8000/admin`
+> "The only way to do great work is to love what you do." - Steve Jobs
 
-## 🛠 Development
-
-### Frontend (React)
-- Located in `resources/js`
-- Components in `resources/js/Components`
-- Pages in `resources/js/Pages`
-- Use `npm run dev` for hot-reload
-
-### Backend (Laravel & Filament)
-- CRUD resources in `app/Filament/Resources`
-- Models in `app/Models`
-- Controllers in `app/Http/Controllers`
-
-## 🔒 Security
-
-Remember to:
-- Update `.env` with secure credentials
-- Configure proper authentication
-- Set up proper file permissions
-- Enable HTTPS in production
+---
+⭐️ From [yourusername](https://github.com/Naufal2376)

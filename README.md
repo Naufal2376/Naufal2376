@@ -58,9 +58,6 @@ A full-featured e-commerce platform with payment integration and admin dashboard
 
 Cross-platform mobile app for social networking.
 
-## 📈 Contribution Graph
-
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 
 ## 💡 A Quote to Inspire
 

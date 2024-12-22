@@ -18,6 +18,7 @@ This project combines Laravel's powerful backend with React's dynamic frontend c
 ```plaintext
 /portfolio
 ├── app/
+|   ├── filament/  # Filament resource
 ├── resources/
 │   ├── js/        # React components & logic
 │   └── views/     # Blade templates

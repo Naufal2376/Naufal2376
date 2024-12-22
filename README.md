@@ -64,4 +64,4 @@ Cross-platform mobile app for social networking.
 > "The only way to do great work is to love what you do." - Steve Jobs
 
 ---
-⭐️ From [yourusername](https://github.com/Naufal2376)
+⭐️ From [Naufal](https://github.com/Naufal2376)

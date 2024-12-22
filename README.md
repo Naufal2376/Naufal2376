@@ -39,7 +39,7 @@ This project combines Laravel's powerful backend with React's dynamic frontend c
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Naufal2376/Naufal2376
 cd portfolio
 ```
 

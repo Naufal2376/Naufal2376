@@ -1,77 +1,81 @@
-<h1>Hi there, I'm Naufal 👋</h1>
+### Hi there, I'm Naufal 👋
 
-<h2>🚀 Full Stack Developer</h2>
+Saya seorang **Full Stack Developer** yang bersemangat dalam membangun aplikasi web yang kuat, skalabel, dan modern. Saya memiliki pengalaman di berbagai ekosistem teknologi, mulai dari backend berbasis PHP/Laravel hingga frontend modern dengan React dan TypeScript.
 
-<p>
-  Saya seorang Full Stack Developer yang bersemangat dalam membangun aplikasi web yang efisien dan skalabel. Saya menikmati proses pemecahan masalah yang kompleks dan selalu antusias untuk belajar teknologi baru. 
-</p>
-
-<p>
-  Di luar coding, saya hobi fotografi 📸 dan bermain gitar 🎸.
-</p>
+* 🏸 Di luar coding, saya hobi bermain **badminton** dan **basket**.
+* 🌍 Saya berbasis di Indonesia.
 
 ---
 
 ### 🎯 What I'm Currently Up To
 
-* 🌱 **Learning:** Saat ini sedang mendalami **Cloud Architecture** dan prinsip-prinsip **DevOps** untuk membangun infrastruktur yang tangguh.
-* 🔭 **Working on:** Fokus membangun aplikasi web yang skalabel dan modern.
-* 👯 **Collaborating:** Selalu terbuka untuk berkolaborasi dalam proyek *open source* yang menarik.
+* 🌱 **Learning:** Saat ini sedang mendalami **Cloud Architecture (AWS)** dan prinsip-prinsip **DevOps** untuk membangun dan mengelola infrastruktur yang tangguh dan skalabel.
+* 🔭 **Working on:** Berkontribusi pada proyek yang berfokus pada arsitektur **microservices** dan aplikasi web modern.
+* 👯 **Collaborating:** Selalu terbuka untuk berkolaborasi dalam proyek open source yang menarik atau ide-ide inovatif.
 
 ---
 
 ### 🛠️ My Tech Stack
 
-<table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top">
       <details open>
-        <summary><strong>💻 Frontend</strong></summary>
-        <br/>
-        <p>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-          <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-          <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-          <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
-        </p>
+        <summary><strong>Frontend</strong></summary>
+        <table border="0" cellpadding="2" cellspacing="0" width="100%">
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="25"/>
+              <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" height="25"/>
+              <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" height="25"/>
+            </td>
+          </tr>
+        </table>
       </details>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top">
       <details open>
-        <summary><strong>⚙️ Backend</strong></summary>
-        <br/>
-        <p>
-          <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-          <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-          <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-        </p>
+        <summary><strong>Backend</strong></summary>
+        <table border="0" cellpadding="2" cellspacing="0" width="100%">
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" height="25"/>
+              <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" height="25"/>
+              <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" height="25"/>
+              <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" height="25"/>
+              <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="25"/>
+            </td>
+          </tr>
+        </table>
       </details>
     </td>
   </tr>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top">
       <details open>
-        <summary><strong>🗄️ Databases</strong></summary>
-        <br/>
-        <p>
-          <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-          <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-          <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-        </p>
+        <summary><strong>Database</strong></summary>
+        <table border="0" cellpadding="2" cellspacing="0" width="100%">
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="25"/>
+              <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="25"/>
+              <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" height="25"/>
+            </td>
+          </tr>
+        </table>
       </details>
     </td>
-    <td valign="top" width="50%">
+    <td valign="top">
       <details open>
-        <summary><strong>☁️ DevOps & Tools</strong></summary>
-        <br/>
-        <p>
-          <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-          <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-        </p>
+        <summary><strong>DevOps & Cloud</strong></summary>
+        <table border="0" cellpadding="2" cellspacing="0" width="100%">
+          <tr>
+            <td>
+              <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" height="25"/>
+              <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" height="25"/>
+            </td>
+          </tr>
+        </table>
       </details>
     </td>
   </tr>
@@ -82,56 +86,43 @@
 ### 📊 My GitHub Stats & Trophies
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Naufal2376&show_icons=true&theme=radical" alt="Naufal's GitHub Stats"/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufal2376&layout=compact&theme=radical" alt="Naufal's Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Naufal2376&show_icons=true&theme=radical" alt="M Naufal Rafif Pratama's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Naufal2376&layout=compact&theme=radical" alt="M Naufal Rafif Pratama's Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Naufal2376&theme=onedark" alt="Naufal's GitHub Trophies"/>
-</p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Naufal2376" alt="Profile Views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Naufal2376&theme=radical" alt="M Naufal Rafif Pratama's Trophies" />
 </p>
 
 ---
 
 ### 🏆 Featured Projects
 
-> Sejumlah proyek yang pernah saya kerjakan untuk mengasah kemampuan.
+Berikut adalah contoh proyek yang menunjukkan kemampuan teknis saya dalam memecahkan masalah.
 
-<details>
-  <summary><strong>🛒 E-Commerce Platform</strong></summary>
-  <p>
-    Platform e-commerce lengkap dengan integrasi pembayaran dan dasbor admin.
-    <br/><br/>
-    <strong>Tech:</strong> 
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  </p>
-</details>
+> **(Catatan: Pastikan untuk mengganti ini dengan proyek Anda yang sebenarnya dan menautkan ke repositori publik Anda!)**
 
-<details>
-  <summary><strong>📱 Social Media App</strong></summary>
-  <p>
-    Aplikasi mobile cross-platform untuk jejaring sosial.
-    <br/><br/>
-    <strong>Tech:</strong> 
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
-    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  </p>
-</details>
+#### 📦 Sistem Manajemen Inventaris & POS (Point-of-Sale) Multi-Tenant
+* Aplikasi web monolitik *multi-tenant* yang dibangun dengan **Laravel** dan **MySQL**. Dirancang untuk melacak inventaris *real-time*, mengelola penjualan, dan menghasilkan laporan. Menerapkan **queues dan jobs Laravel** untuk pemrosesan laporan asinkron guna memastikan *throughput* transaksi yang tinggi.
+* **[Tautkan ke Repositori Anda Di Sini]**
+
+#### 🚀 Aplikasi Perencanaan Proyek Kolaboratif Real-Time (Trello Clone)
+* Aplikasi *full-stack* yang dibangun dengan stack **MERN** (React, Express.js, Node.js) dan **TypeScript**. Menerapkan fungsionalitas *drag-and-drop* yang mulus menggunakan `react-beautiful-dnd` dan komunikasi *real-time* penuh melalui **WebSockets** (`Socket.io`) untuk pembaruan papan instan di semua klien.
+* **[Tautkan ke Repositori Anda Di Sini]**
 
 ---
 
 ### 📫 Let's Connect!
 
+Jangan ragu untuk menghubungi saya!
+
 <p align="left">
-  <a href="https[://]linkedin.com/in/NAMAPENGGUNA_ANDA" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/search/results/all/?keywords=M%20Naufal%20Rafif%20Pratama" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https[://]twitter.com/NAMAPENGGUNA_ANDA" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://instagram.com/nfalrfif" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:EMAIL_ANDA@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:naufalbhurr@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>

@@ -95,28 +95,12 @@ Saya seorang **Full Stack Developer** yang bersemangat dalam membangun aplikasi 
 
 ---
 
-### 🏆 Featured Projects
-
-Berikut adalah contoh proyek yang menunjukkan kemampuan teknis saya dalam memecahkan masalah.
-
-> **(Catatan: Pastikan untuk mengganti ini dengan proyek Anda yang sebenarnya dan menautkan ke repositori publik Anda!)**
-
-#### 📦 Sistem Manajemen Inventaris & POS (Point-of-Sale) Multi-Tenant
-* Aplikasi web monolitik *multi-tenant* yang dibangun dengan **Laravel** dan **MySQL**. Dirancang untuk melacak inventaris *real-time*, mengelola penjualan, dan menghasilkan laporan. Menerapkan **queues dan jobs Laravel** untuk pemrosesan laporan asinkron guna memastikan *throughput* transaksi yang tinggi.
-* **[Tautkan ke Repositori Anda Di Sini]**
-
-#### 🚀 Aplikasi Perencanaan Proyek Kolaboratif Real-Time (Trello Clone)
-* Aplikasi *full-stack* yang dibangun dengan stack **MERN** (React, Express.js, Node.js) dan **TypeScript**. Menerapkan fungsionalitas *drag-and-drop* yang mulus menggunakan `react-beautiful-dnd` dan komunikasi *real-time* penuh melalui **WebSockets** (`Socket.io`) untuk pembaruan papan instan di semua klien.
-* **[Tautkan ke Repositori Anda Di Sini]**
-
----
-
 ### 📫 Let's Connect!
 
 Jangan ragu untuk menghubungi saya!
 
 <p align="left">
-  <a href="https://www.linkedin.com/search/results/all/?keywords=M%20Naufal%20Rafif%20Pratama" target="_blank">
+  <a href="https://www.linkedin.com/in/m-naufal-rafif-pratama-252aa72a0?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://instagram.com/nfalrfif" target="_blank">
